@@ -2,7 +2,7 @@
 [Youtube Video in URDU/Hindi](https://www.youtube.com/watch?v=Oz49UhNL--E&ab_channel=ModernAppDevelopment)
 
 
-[![SEND EMAIL WITH REACTJS USING EMAILJS](https://img.youtube.com/vi/Oz49UhNL--E/sddefault.jpg)](https://www.youtube.com/watch?v=Oz49UhNL--E&ab_channel=ModernAppDevelopment "How to Send Email with Reactjs using Emailjs")
+[![SEND EMAIL WITH REACTJS USING EMAILJS](https://img.youtube.com/vi/Oz49UhNL--E/sddefault.jpg)](https://www.youtube.com/watch?v=Oz49UhNL--E&ab_channel=ModernAppDevelopment?t=35s "How to Send Email with Reactjs using Emailjs")
 
 
 
